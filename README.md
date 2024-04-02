@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mónica Silva Adelantado</h1>
-<h3 align="center">A passionate Fullstack developer and dietist nutricionist from Spain</h3>
+<h3 align="center">A passionate Fullstack developer and dietist nutritionist from Spain</h3>
 
 <img align="right" alt="GIF" src="./develope.gif" width="500" height="320" />
 
