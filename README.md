@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mónica Silva Adelantado</h1>
-<h3 align="center">A passionate Fullstack developer and nutritionist dietitian from Spain</h3>
+<h3 align="center">A passionate Full Stack developer and nutritionist dietitian from Spain</h3>
 
 <img align="right" alt="GIF" src="./develope.gif" width="500" height="320" />
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://https://github.com/monicasilvaa](https://github.com/monicasilvaa?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Kotlin**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **monicasilva2307@gmail.com**
 
